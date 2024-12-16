@@ -58,3 +58,10 @@ Show Off Your Skills:
   - Preview and Mock data/files are kept in the `Preview Content` directory, so they are not included in the final app bundle on distribution. 
 
 Screenshots:
+![fetch](https://github.com/user-attachments/assets/e15c035a-bee0-48b0-85f7-9df417378575)
+![Simulator Screenshot - iPhone 16 - 2024-12-12 at 16 27 24](https://github.com/user-attachments/assets/0e41bb69-ee07-47b4-88d6-7bbeedb0dc26)
+![Simulator Screen Recording - iPhone 16 - 2024-12-12 at 16 27 35](https://github.com/user-attachments/assets/53271e60-be35-4ce4-8af2-4bbf611d31bf)
+![Simulator Screen Recording - iPhone 16 - 2024-12-12 at 16 27 35](https://github.com/user-attachments/assets/fecf7fab-bee5-4601-aa6e-e9cfd11b285a)
+
+
+
